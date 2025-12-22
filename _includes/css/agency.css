@@ -688,6 +688,11 @@ min-height: 33px;
 line-height: 1.35;
 }
 
+.team-member ul.social-buttons {
+    margin-top: auto;      /* 아래로 밀기 */
+    min-height: 36px;      /* ⭐ 아이콘 자리 예약 */
+  }
+
 /* 소셜 아이콘을 항상 하단에 고정
 .team-member .social-buttons {
 margin-top: auto;
