@@ -347,7 +347,9 @@ section h3.section-subheading {
 section h3.section-subheading-2 {
     margin-bottom: 75px;
     text-transform: none;
-    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    /* font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: "Source Sans 3", "Helvetica Neue", Arial, sans-serif;
+
     /* font-family: {{ site.data.template.font.secondary }}; */
     font-size: 24px;
     font-weight: 400;
@@ -427,8 +429,8 @@ section h3.section-subheading-2 {
   
   /* 왼쪽 썸네일 */
   .publication-thumb {
-    flex: 0 0 20%;
-    max-width: 20%;
+    flex: 0 0 25%;
+    max-width: 25%;
   }
   
   .publication-thumb img {
@@ -439,8 +441,8 @@ section h3.section-subheading-2 {
   }
 
   .publication-content {
-    flex: 0 0 80%;
-    max-width: 80%;
+    flex: 0 0 75%;
+    max-width: 75%;
   }
   
   /* 오른쪽 텍스트 */
@@ -452,7 +454,7 @@ section h3.section-subheading-2 {
   }
 
   .publication-title {
-    font-size: 35px;      /* ← 여기 */
+    font-size: 32px;      /* ← 여기 */
     line-height: 1.25;
     margin-top: 0;
     margin-bottom: 10px;
@@ -462,16 +464,16 @@ section h3.section-subheading-2 {
   .publication-subtitle {
     font-style: italic;
     color: #777;
-    margin-bottom: 22px;
+    margin-bottom: 14px;
   }
   
   .publication-desc {
     line-height: 1.65;
-    margin-bottom: 22px;
+    margin-bottom: 12px;
   }
   
   .publication-meta {
-    font-size: 22px;
+    font-size: 14px;
     color: #666;
   }
 
