@@ -2,7 +2,7 @@
 title: On Epistemic Uncertainty of Visual Tokens for Object Hallucinations in Large Vision-Language Models
 subtitle: Uncertainty
 layout: default
-modal-id: 2
+modal-id: 1
 date: 2025-09-30
 img: hallu.png
 thumbnail: hallu_thumb_sq.png

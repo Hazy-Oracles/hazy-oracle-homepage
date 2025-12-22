@@ -6,99 +6,92 @@ title: Effective Human-Machine Teaming with Multimodal Hazy Oracle Models
 email: sychun@snu.ac.kr
 description: "A principled framework for human–machine teaming that models human ambiguity through multimodal hazy oracle models, enabling adaptive deferral, query generation, and continual co-learning in uncertain environments."
 
-
-# Team names, titles and social links
 people:
-- name: Se Young Chun 
-  pic: seyoung
-  position: Professor of Seoul National University
+- name: Aidan Dempster
+  pic: aidan
+  position: Master’s Student of EECS, University of Michigan
   social:
-    - title: linkedin 
-      url: https://www.linkedin.com/in/sychun-953593206/
-    - title: home 
-      url: https://icl.snu.ac.kr/home
+    - title: linkedin
+      url: https://www.linkedin.com/in/aidan-dempster-4b3444179/
 
-
-- name: Jason Corso
-  pic: jason
-  position: Toyota Professor of AI at Michigan | Voxel51 Co-Founder and Chief
+- name: Byung Hyun Lee
+  pic: byunghyun
+  position: PhD Candidate of ECE, Seoul National University
   social:
-    - title: linkedin 
-      url: https://www.linkedin.com/in/jason-corso/
-    - title: home 
-      url: https://web.eecs.umich.edu/~jjcorso/
-
+    - title: linkedin
+      url: https://www.linkedin.com/in/bh-lee/
+    - title: home
+      url: https://hyun1a.github.io/
 
 - name: Gwanghyun Kim
   pic: gwanghyun
-  position: PhD Candidates at Seoul National University
+  position: PhD Candidate of ECE, Seoul National University
   social:
-    - title: linkedin 
+    - title: linkedin
       url: https://www.linkedin.com/in/gwanghyun-bradley-kim/
-    - title: home 
+    - title: home
       url: https://gwang-kim.github.io
-
-
-- name: Byung Hyun ­Lee
-  pic: byunghyun
-  position: PhD Candidates at Seoul National University
-  social:
-    - title: linkedin 
-      url: https://www.linkedin.com/in/bh-lee/
-    - title: home 
-      url: https://hyun1a.github.io/
-
-
-- name: Jiha Jang
-  pic: jiha
-  position: PhD Candidates at Seoul National University
-  social:
-    - title: linkedin 
-      url: https://www.linkedin.com/in/jihajang/
-    - title: home 
-      url: https://jeeit17.github.io
-
-- name: Seunggyu Lee
-  pic: seunggyu
-  position: PhD Candidates at Seoul National University
-  social:
-    - title: linkedin 
-      url: https://www.linkedin.com/in/seunggyu-lee-18163b263/
 
 - name: Hayeon Kim
   pic: hayeon_sq
-  position: PhD Candidates at Seoul National University
+  position: PhD Candidate of ECE, Seoul National University
   social:
-    - title: linkedin 
+    - title: linkedin
       url: https://www.linkedin.com/in/hayeon-kim-khy5630/
-    - title: home 
-      url: https://janeyeon.github.io 
+    - title: home
+      url: https://janeyeon.github.io
 
-- name: Hoigi Seo­ 
+- name: Hoigi Seo
   pic: hoigi
-  position: PhD Candidates at Seoul National University
+  position: PhD Candidate of ECE, Seoul National University
   social:
-    - title: linkedin 
+    - title: linkedin
       url: https://www.linkedin.com/in/hoigiseo/
-    - title: home 
+    - title: home
       url: https://seohoiki3215.github.io
+
+- name: Jason Corso
+  pic: jason
+  position: Professor of Robotics, EECS, University of Michigan (PI, US Team)
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/jason-corso/
+    - title: home
+      url: https://web.eecs.umich.edu/~jjcorso/
+
+- name: Jiha Jang
+  pic: jiha
+  position: PhD Candidate of ECE, Seoul National University
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/jihajang/
+    - title: home
+      url: https://jeeit17.github.io
+
+- name: Se Young Chun
+  pic: seyoung
+  position: Professor of ECE, Seoul National University (PI, Korean Team)
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/sychun-953593206/
+    - title: home
+      url: https://icl.snu.ac.kr/home
+
+- name: Seunggyu Lee
+  pic: seunggyu
+  position: PhD Candidate of ECE, Seoul National University
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/seunggyu-lee-18163b263/
 
 - name: Yayuan Li
   pic: yayuan
-  position: PhD Candidates at University of Michigan
+  position: PhD Candidate of EECS, University of Michigan
   social:
-    - title: linkedin 
+    - title: linkedin
       url: https://www.linkedin.com/in/yayuan-li-148659272/
-    - title: github 
+    - title: github
       url: https://github.com/yayuanli
-
-- name: Aidan Dempster
-  pic: aidan
-  position: Master’s Student at the University of Michigan
-  social:
-    - title: linkedin 
-      url: https://www.linkedin.com/in/aidan-dempster-4b3444179/
-
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # social:
