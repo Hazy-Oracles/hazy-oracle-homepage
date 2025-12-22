@@ -347,11 +347,11 @@ section h3.section-subheading {
 section h3.section-subheading-2 {
     margin-bottom: 75px;
     text-transform: none;
-    font-family: {{ site.data.template.font.secondary }};
-    /* font-size: 16px; */
-    font-size: 24px;   /* 16px → 18px */
-    font-style: italic;
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 24px;
     font-weight: 400;
+    letter-spacing: 0.05em;  /* ⭐ 살짝 넓힘 */
+    line-height: 1.4;
 }
 
 
