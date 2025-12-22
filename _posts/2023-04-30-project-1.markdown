@@ -1,0 +1,14 @@
+---
+title: Evaluating and Improving Interactions with Hazy Oracles
+subtitle: Hazy oracle
+layout: default
+modal-id: 1
+date: 2023-04-30
+img: hazy.png
+thumbnail: hazy_thumb.png
+alt: image-alt
+project-date: April 2023
+client: Start Bootstrap
+category: AAAI 2023
+description: This work studies human–AI interaction under ambiguity by modeling humans as hazy oracles. We formalize deferred inference, introduce the Deferred Error Volume (DEV) metric to evaluate accuracy–effort tradeoffs, and demonstrate substantial error reduction on vision-and-language tasks such as referring expression comprehension and video object tracking.
+---

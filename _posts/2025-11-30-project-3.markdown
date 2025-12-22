@@ -1,0 +1,14 @@
+---
+title: Uncertainty-Guided Hyperbolic Alignment for Compositional Part-to-Whole Semantics
+subtitle: Uncertainty
+layout: default
+modal-id: 1
+date: 2025-11-30
+img: uncha.png
+thumbnail: uncha_thumb.png
+alt: image-alt
+project-date: Nov 2025
+client: Start Bootstrap
+category: Submitted
+description: By modeling part-to-whole semantic representativeness as hyperbolic uncertainty, this model enables uncertainty-guided contrastive alignment and entailment calibration, yielding well-structured hyperbolic embeddings for compositional and hierarchy-aware vision-language understanding.
+---
