@@ -24,18 +24,18 @@
                     </div>
                 </div> -->
                 <div class="publication-item">
-                <div class="publication-thumb">
-                    <img src="img/portfolio/{{ post.thumbnail }}" alt="">
-                </div>
-                <div class="publication-content">
-                    <h4>{{ post.title }}</h4>
-                    <p class="publication-subtitle">{{ post.subtitle }}</p>
-                    <p class="publication-desc">{{ post.description }}</p>
-                    <p class="publication-meta">
-                    <strong>{{ post.category }}</strong> · {{ post.project-date }}
-                    </p>
-                </div>
-                </div>
+                    <div class="publication-thumb">
+                      <img src="img/portfolio/{{ post.thumbnail }}" alt="">
+                    </div>
+                    <div class="publication-content">
+                      <h4 class="publication-title">{{ post.title }}</h4>
+                      <p class="publication-subtitle">{{ post.subtitle }}</p>
+                      <p class="publication-desc">{{ post.description }}</p>
+                      <p class="publication-meta">
+                        <strong>{{ post.category }}</strong> · {{ post.project-date }}
+                      </p>
+                    </div>
+                  </div>
             {% endfor %}
             </div>
         </div>
