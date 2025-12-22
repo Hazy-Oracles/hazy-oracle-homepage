@@ -658,12 +658,12 @@ section h3.section-subheading {
 } */
 /* 카드 자체를 flex 컨테이너로 */
 .team-member {
-    margin-bottom: 50px;
+    margin-bottom: 10px;
     text-align: center;
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 320px; /* 핵심: 카드 높이 고정 */
+    height: 300px; /* 핵심: 카드 높이 고정 */
   }
   
 /* 이미지 */
@@ -688,10 +688,10 @@ min-height: 33px;
 line-height: 1.35;
 }
 
-소셜 아이콘을 항상 하단에 고정
+/* 소셜 아이콘을 항상 하단에 고정
 .team-member .social-buttons {
 margin-top: auto;
-}
+} */
 
 
 aside.clients img {
