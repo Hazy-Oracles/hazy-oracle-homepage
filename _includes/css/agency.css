@@ -371,14 +371,14 @@ section h3.section-subheading-2 {
     margin: 0 0 15px;
 }
 
-#portfolio .portfolio-item .portfolio-link {
+/* #portfolio .portfolio-item .portfolio-link {
     display: block;
     position: relative;
     margin: 0 auto;
     max-width: 400px;
-}
+} */
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover {
+/* #portfolio .portfolio-item .portfolio-link .portfolio-hover {
     position: absolute;
     width: 100%;
     height: 100%;
@@ -386,7 +386,7 @@ section h3.section-subheading-2 {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: rgba(254,209,54,.9); /* Fallback when no plugin support */
+    background: rgba(254,209,54,.9); 
     background: rgba({{ site.data.template.color.primary | hex_to_rgb | join: ',' }}, .9);
 }
 
@@ -412,7 +412,50 @@ section h3.section-subheading-2 {
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
     margin: 0;
-}
+} */
+
+
+/* 전체 publication 아이템 */
+.publication-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+    padding: 30px 0;
+    border-bottom: 1px solid #eaeaea;
+  }
+  
+  /* 왼쪽 썸네일 */
+  .publication-thumb img {
+    width: 220px;
+    height: 220px;
+    object-fit: cover;
+    border-radius: 4px;
+  }
+  
+  /* 오른쪽 텍스트 */
+  .publication-content h4 {
+    margin-top: 0;
+    margin-bottom: 8px;
+    font-size: 22px;
+    text-transform: none;
+  }
+  
+  .publication-subtitle {
+    font-style: italic;
+    color: #888;
+    margin-bottom: 12px;
+  }
+  
+  .publication-desc {
+    margin-bottom: 10px;
+    line-height: 1.6;
+  }
+  
+  .publication-meta {
+    font-size: 14px;
+    color: #666;
+  }
+  
 
 #portfolio .portfolio-item .portfolio-caption {
     margin: 0 auto;
