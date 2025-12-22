@@ -3,7 +3,7 @@ title: Evaluating and Improving Interactions with Hazy Oracles
 subtitle: Hazy oracle
 layout: default
 modal-id: 1
-date: 2023-04-30
+date: 2023-04-29
 img: hazy.png
 thumbnail: hazy_thumb.png
 alt: image-alt

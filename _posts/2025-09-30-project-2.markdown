@@ -10,6 +10,5 @@ alt: image-alt
 project-date: Sep 2025
 client: Start Bootstrap
 category: Neurips 2025
-description: By linking epistemic uncertainty of visual tokens to object hallucinations, this work provides a principled analysis of hallucination mechanisms in LVLMs and introduces an efficient,
-vision-encoder-only intervention that improves visual grounding without retraining.
+description: By linking epistemic uncertainty of visual tokens to object hallucinations, this work provides a principled analysis of hallucination mechanisms in LVLMs and introduces an efficient, vision-encoder-only intervention that improves visual grounding without retraining.
 ---
