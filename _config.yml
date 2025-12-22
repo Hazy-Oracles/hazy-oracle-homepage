@@ -1,64 +1,122 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://Hazy-Oracles.github.io
+baseurl: /hazy-oracle-homepage/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Effective Human-Machine Teaming with Multimodal Hazy Oracle Models
+email: sychun@snu.ac.kr
+description: "A principled framework for human–machine teaming that models human ambiguity through multimodal hazy oracle models, enabling adaptive deferral, query generation, and continual co-learning in uncertain environments."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: Se Young Chun 
+  pic: seyoung
+  position: Professor of Seoul National University
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: Linkedin 
+      url: https://www.linkedin.com/in/sychun-953593206/
+    - title: Homepage 
+      url: https://icl.snu.ac.kr/home
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Jason Corso
+  pic: jason
+  position: Toyota Professor of AI at Michigan | Voxel51 Co-Founder and Chief
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: Linkedin 
+      url: https://www.linkedin.com/in/jason-corso/
+    - title: Homepage 
+      url: https://web.eecs.umich.edu/~jjcorso/
+
+
+- name: Gwanghyun (Bradley) Kim
+  pic: gwanghyun
+  position: PhD Candidates at Seoul National University
+  social:
+    - title: Linkedin 
+      url: https://www.linkedin.com/in/gwanghyun-bradley-kim/
+    - title: Homepage 
+      url: (https://gwang-kim.github.io
+
+
+- name: Byung Hyun ­Lee
+  pic: byunghyun
+  position: PhD Candidates at Seoul National University
+  social:
+    - title: Linkedin 
+      url: https://www.linkedin.com/in/bh-lee/
+    - title: Homepage 
+      url: https://hyun1a.github.io/
+
+
+- name: Jiha Jang
+  pic: jiha
+  position: PhD Candidates at Seoul National University
+  social:
+    - title: Linkedin 
+      url: https://www.linkedin.com/in/jihajang/
+    - title: Homepage 
+      url: https://jeeit17.github.io
+
+- name: Seunggyu Lee
+  pic: seunggyu
+  position: PhD Candidates at Seoul National University
+  social:
+    - title: Linkedin 
+      url: https://www.linkedin.com/in/seunggyu-lee-18163b263/
+
+- name: Hayeon Kim
+  pic: hayeon
+  position: PhD Candidates at Seoul National University
+  social:
+    - title: Linkedin 
+      url: https://www.linkedin.com/in/hayeon-kim-khy5630/
+    - title: Homepage 
+      url: https://janeyeon.github.io 
+
+- name: Hoigi Seo­ 
+  pic: hoigi
+  position: PhD Candidates at Seoul National University
+  social:
+    - title: Linkedin 
+      url: https://www.linkedin.com/in/hoigiseo/
+    - title: Homepage 
+      url: https://seohoiki3215.github.io
+
+- name: Yayuan Li
+  pic: yayuan
+  position: PhD Candidates at University of Michigan
+  social:
+    - title: Linkedin 
+      url: https://www.linkedin.com/in/yayuan-li-148659272/
+    - title: Homepage 
+      url: https://github.com/yayuanli
+
+- name: Aidan Dempster
+  pic: aidan
+  position: Master’s Student at the University of Michigan
+  social:
+    - title: Linkedin 
+      url: https://www.linkedin.com/in/aidan-dempster-4b3444179/
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+# social:
+#   - title: twitter
+#     url: http://twitter.com/jekyllrb
+#   - title: facebook
+#     url:
+#   - title: stack-overflow
+#     url: http://stackoverflow.com/questions/tagged/jekyll
+#   - title: bitbucket 
+#     url: http://bitbucket.org/jekyll
+#   - title: github
+#     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 301 Building, 1 Gwanak-ro
+  - line: Gwanak-gu, Seoul 08826, South Korea
 
 # Build settings
 markdown: kramdown
