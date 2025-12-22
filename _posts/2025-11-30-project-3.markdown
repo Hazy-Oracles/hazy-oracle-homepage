@@ -2,7 +2,7 @@
 title: Uncertainty-Guided Hyperbolic Alignment for Compositional Part-to-Whole Semantics
 subtitle: Uncertainty
 layout: default
-modal-id: 1
+modal-id: 3
 date: 2025-11-30
 img: uncha.png
 thumbnail: uncha_thumb.png
