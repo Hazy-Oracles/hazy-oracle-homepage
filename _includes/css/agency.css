@@ -633,6 +633,11 @@ section h3.section-subheading {
 }
 
 .team-member {
+    /* margin-bottom: 50px;
+    text-align: center; */
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
     margin-bottom: 50px;
     text-align: center;
 }
