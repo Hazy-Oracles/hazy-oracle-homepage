@@ -658,7 +658,7 @@ section h3.section-subheading {
 } */
 /* 카드 자체를 flex 컨테이너로 */
 .team-member {
-    margin-bottom: 20px;
+    margin-bottom: 50px;
     text-align: center;
     display: flex;
     flex-direction: column;
