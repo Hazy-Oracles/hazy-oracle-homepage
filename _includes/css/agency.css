@@ -663,7 +663,7 @@ section h3.section-subheading {
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 350px; /* 핵심: 카드 높이 고정 */
+    height: 320px; /* 핵심: 카드 높이 고정 */
   }
   
 /* 이미지 */
@@ -677,16 +677,15 @@ border: 7px solid #fff;
 
 /* 이름 */
 .team-member h4 {
-margin-top: 20px;
-margin-bottom: 6px;
-text-transform: none;
+margin-top: 14px;
+margin-bottom: 4px;
 }
 
 /* 직함: 줄바꿈 허용 + 높이 확보 */
 .team-member p {
 margin-top: 0;
-min-height: 44px;   /* ⭐ 핵심 */
-line-height: 1.4;
+min-height: 33px;
+line-height: 1.35;
 }
 
 /* 소셜 아이콘을 항상 하단에 고정 */
