@@ -13,9 +13,9 @@ people:
   pic: seyoung
   position: Professor of Seoul National University
   social:
-    - title: Linkedin 
+    - title: linkedin 
       url: https://www.linkedin.com/in/sychun-953593206/
-    - title: Homepage 
+    - title: home 
       url: https://icl.snu.ac.kr/home
 
 
@@ -23,9 +23,9 @@ people:
   pic: jason
   position: Toyota Professor of AI at Michigan | Voxel51 Co-Founder and Chief
   social:
-    - title: Linkedin 
+    - title: linkedin 
       url: https://www.linkedin.com/in/jason-corso/
-    - title: Homepage 
+    - title: home 
       url: https://web.eecs.umich.edu/~jjcorso/
 
 
@@ -33,9 +33,9 @@ people:
   pic: gwanghyun
   position: PhD Candidates at Seoul National University
   social:
-    - title: Linkedin 
+    - title: linkedin 
       url: https://www.linkedin.com/in/gwanghyun-bradley-kim/
-    - title: Homepage 
+    - title: home 
       url: (https://gwang-kim.github.io
 
 
@@ -43,9 +43,9 @@ people:
   pic: byunghyun
   position: PhD Candidates at Seoul National University
   social:
-    - title: Linkedin 
+    - title: linkedin 
       url: https://www.linkedin.com/in/bh-lee/
-    - title: Homepage 
+    - title: home 
       url: https://hyun1a.github.io/
 
 
@@ -53,50 +53,50 @@ people:
   pic: jiha
   position: PhD Candidates at Seoul National University
   social:
-    - title: Linkedin 
+    - title: linkedin 
       url: https://www.linkedin.com/in/jihajang/
-    - title: Homepage 
+    - title: home 
       url: https://jeeit17.github.io
 
 - name: Seunggyu Lee
   pic: seunggyu
   position: PhD Candidates at Seoul National University
   social:
-    - title: Linkedin 
+    - title: linkedin 
       url: https://www.linkedin.com/in/seunggyu-lee-18163b263/
 
 - name: Hayeon Kim
   pic: hayeon
   position: PhD Candidates at Seoul National University
   social:
-    - title: Linkedin 
+    - title: linkedin 
       url: https://www.linkedin.com/in/hayeon-kim-khy5630/
-    - title: Homepage 
+    - title: home 
       url: https://janeyeon.github.io 
 
 - name: Hoigi Seo­ 
   pic: hoigi
   position: PhD Candidates at Seoul National University
   social:
-    - title: Linkedin 
+    - title: linkedin 
       url: https://www.linkedin.com/in/hoigiseo/
-    - title: Homepage 
+    - title: home 
       url: https://seohoiki3215.github.io
 
 - name: Yayuan Li
   pic: yayuan
   position: PhD Candidates at University of Michigan
   social:
-    - title: Linkedin 
+    - title: linkedin 
       url: https://www.linkedin.com/in/yayuan-li-148659272/
-    - title: Homepage 
+    - title: github 
       url: https://github.com/yayuanli
 
 - name: Aidan Dempster
   pic: aidan
   position: Master’s Student at the University of Michigan
   social:
-    - title: Linkedin 
+    - title: linkedin 
       url: https://www.linkedin.com/in/aidan-dempster-4b3444179/
 
 
