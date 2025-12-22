@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2023-04-29
 img: hazy.png
-thumbnail: hazy_thumb.png
+thumbnail: hazy_thumb_sq.png
 alt: image-alt
 project-date: April 2023
 client: Start Bootstrap
