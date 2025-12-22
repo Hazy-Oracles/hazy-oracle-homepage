@@ -1,6 +1,6 @@
 ---
 title: On Epistemic Uncertainty of Visual Tokens for Object Hallucinations in Large Vision-Language Models
-subtitle: Uncertainty
+subtitle: Quantifying Hazy Visual Understanding and Mitigating Hallucinations via Epistemic Uncertainty
 layout: default
 modal-id: 1
 date: 2025-09-30
@@ -10,5 +10,5 @@ alt: image-alt
 project-date: Sep 2025
 client: Start Bootstrap
 category: Neurips 2025
-description: By linking epistemic uncertainty of visual tokens to object hallucinations, this work provides a principled analysis of hallucination mechanisms in LVLMs and introduces an efficient, vision-encoder-only intervention that improves visual grounding without retraining.
+description: This work investigates object hallucinations in large vision-language models through the lens of epistemic uncertainty in visual tokens. By quantitatively measuring failures in visual understanding, we explicitly characterize hazy perceptual regimes in which the vision encoder provides uncertain and unreliable evidence. Under this hazy setting, we show that epistemic uncertainty concentrates on hallucinated regions and propagates to language generation. Building on this insight, we propose a lightweight, vision-encoder-only intervention that enables the model to better cope with its own perceptual uncertainty by selectively attenuating unreliable visual evidence, significantly improving visual grounding and reducing hallucinations without retraining or modifying the language model.
 ---
