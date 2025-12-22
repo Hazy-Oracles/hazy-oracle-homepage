@@ -632,11 +632,10 @@ section h3.section-subheading {
     }
 }
 
-.team-member {
+/* .team-member {
     margin-bottom: 50px;
     text-align: center;
 
-    /* object-fit: cover; */
 
 }
 
@@ -656,7 +655,45 @@ section h3.section-subheading {
 
 .team-member p {
     margin-top: 0;
+} */
+/* 카드 자체를 flex 컨테이너로 */
+.team-member {
+    margin-bottom: 50px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 420px; /* 핵심: 카드 높이 고정 */
+  }
+  
+/* 이미지 */
+.team-member img {
+width: 200px;
+height: 200px;
+object-fit: cover;
+margin: 0 auto;
+border: 7px solid #fff;
 }
+
+/* 이름 */
+.team-member h4 {
+margin-top: 20px;
+margin-bottom: 6px;
+text-transform: none;
+}
+
+/* 직함: 줄바꿈 허용 + 높이 확보 */
+.team-member p {
+margin-top: 0;
+min-height: 44px;   /* ⭐ 핵심 */
+line-height: 1.4;
+}
+
+/* 소셜 아이콘을 항상 하단에 고정 */
+.team-member .social-buttons {
+margin-top: auto;
+}
+
 
 aside.clients img {
     margin: 50px auto;
