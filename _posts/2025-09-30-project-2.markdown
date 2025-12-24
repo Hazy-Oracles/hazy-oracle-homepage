@@ -7,8 +7,8 @@ date: 2025-09-30
 img: hallu.png
 thumbnail: hallu_thumb.png
 alt: image-alt
-project-date: Sep 2025
+project-date: Dec 2025
 client: Start Bootstrap
-category: Neurips 2025
-description: Quantifying Hazy Visual Understanding and Mitigating Hallucinations via Epistemic Uncertainty
+category: Neurips
+description: This work examines object hallucinations by measuring epistemic uncertainty in visual tokens. We show that visual uncertainty concentrates in hallucinated regions and propagates to text generation. To mitigate this, we propose a lightweight, training-free vision intervention that attenuates unreliable evidence, significantly improving grounding and reducing hallucinations.
 ---
