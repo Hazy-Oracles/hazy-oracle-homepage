@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2025-09-30
 img: hallu.png
-thumbnail: hallu_thumb_sq.png
+thumbnail: hallu_thumb.png
 alt: image-alt
 project-date: Sep 2025
 client: Start Bootstrap
